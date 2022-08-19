@@ -1,0 +1,132 @@
+body {
+    margin: 0px;
+    text-align: center;
+    font-family: arial;
+}
+
+h1 {
+    margin-top: 0px;
+    margin-bottom: 10px;
+}
+
+h2 {
+    margin-top: 0px;
+    font-size: 1.15rem;
+    font-weight: normal;
+}
+
+h3 {
+    margin-top: 20;
+    margin-bottom: 20;
+}
+
+p {
+    margin-top: 5;
+    margin-bottom: 5;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    color: #C29B0C;
+}
+
+
+.top-container {
+    background-color: linen;
+    margin-top: 0;
+    margin-bottom: 0;
+    position: relative;
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+
+.middle-container {
+    margin-top: 0;
+    margin-bottom: 0;
+    position: relative;
+}
+
+.profile {
+    background-color: lightgray;
+    padding-top: 20px;
+    padding-bottom: 75px;
+}
+
+.profile-inner {
+    display: block;
+    width: 600px;
+    margin: auto;
+}
+
+.profile-pic {
+    float: left;
+    margin-right: 15px;
+}
+
+.profile-blossom-img {
+    height: 30px;
+    margin-right: 183px;
+}
+
+.profile-blurb {
+    width: 520px;
+    bottom: 75px;
+    line-height: 1.5;
+    text-align: left;
+    color: #353839;
+    padding-top: 25px;
+}
+
+.clients {
+    background-color: linen;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.client-row {
+    color: #353839;
+    width: 25%;
+    margin: auto;
+}
+
+.extra-container {
+     background-color: lightgray;
+     margin-top: 0;
+     padding-top: 15px;
+     padding-bottom: 15px;
+}
+
+.bottom-container {
+     background-color: linen;
+     margin-top: 0;
+     padding-top: 15px;
+     text-align: center;
+}
+
+.contact-me {
+    width: 15%;
+    margin: auto;
+}
+
+.blossom-img {
+    height: 30px;
+}
+
+.btn {
+    color: #353839;
+}
+
+.footer {
+    margin: 0, auto, 0, auto;
+}
+
+.footer-link {
+    color: #353839;
+}
+
+.copyright {
+    font-size: 0.75rem;
+}
